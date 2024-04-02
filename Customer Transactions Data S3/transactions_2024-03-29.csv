@@ -1,0 +1,6 @@
+customer_id,name,debit_card_number,debit_card_type,bank_name,transaction_date,amount_spend
+3079,Joseph Smith,4837019909478699244,American Express,Carr-Nixon,2024-03-29,971.44
+7446,Angel Barrett,2414600119846247,Diners Club Carte Blanche,Wilson and Sons,2024-03-29,784.81
+7396,Geoffrey Clarke,3586715293413356,VISA 13 digit,Huff and Wright,2024-03-29,759.72
+4844,James Smith,3536028248487819,VISA 16 digit,Cooke and Morrison,2024-03-29,413.24
+2197,Brian Griffin,4527943460686758,JCB 15 digit,Mullen and Walter,2024-03-29,479.83

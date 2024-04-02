@@ -1,0 +1,3 @@
+customer_id,name,debit_card_number,debit_card_type,bank_name,transaction_date,amount_spend
+4484,Randy Andrews,6584170965062872,American Express,Adkins and Riddle,2024-03-31,305.79
+2971,Thomas Farmer,3532568847782338,JCB 15 digit,Fleming and Campbell,2024-03-31,431.65
